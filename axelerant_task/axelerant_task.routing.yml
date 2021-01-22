@@ -1,0 +1,7 @@
+axelerant_task.jsonrepresentation:
+  path: '/page_json/{sitekey}/{nid}'
+  defaults:
+    _title: ''
+    _controller: '\Drupal\axelerant_task\Controller\AxelerantController::jsonrepresentationData'
+  requirements:
+     _access: 'TRUE'
