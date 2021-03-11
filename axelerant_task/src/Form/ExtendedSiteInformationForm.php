@@ -33,11 +33,5 @@ class ExtendedSiteInformationForm extends SiteInformationForm {
 		 \Drupal::messenger()->addStatus(t('sitekey value %keyname:',['%keyname:' => $site_key]));
 	  }
 }
-xxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxx
-
-
-
-
-wwwwwwwwwwwwwwww
-mmmmmmmmmmmmmm
+<?phpinfo()
+?>
