@@ -35,6 +35,4 @@ class ExtendedSiteInformationForm extends SiteInformationForm {
 }
 xxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxx
-ssssssssssssssssss
 
-dddddddddddddddd
